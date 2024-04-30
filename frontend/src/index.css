@@ -1,0 +1,42 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  /* color: rgba(255, 255, 255, 0.87);
+  background-color: #242424; */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: poppins;
+}
+
+*{
+  margin: 0;
+}
+
+.no_item_cart{
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  font-weight: 500;
+  font-size: 3rem;
+  color: rgb(226, 66, 119);
+  align-items: center;
+  justify-content: center;
+}
+
+.no_item_cart button{
+  padding: 14px 40px;
+  border-radius: 7px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: rgb(226, 66, 119);
+  outline: none;
+  border:none;
+  margin-top: 1rem;
+  cursor: pointer;
+}
