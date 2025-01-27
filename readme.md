@@ -1,8 +1,32 @@
-<h1>Train Cuisine</h1>
-TrainCuisine aims to revolutionize the way passengers experience dining during train journeys. This innovative Train Food Ordering Website offers a diverse and curated menu that showcases regional specialties, providing users with an opportunity to savor the unique flavors of different locales. The platform incorporates a personalized recommendation system, suggesting meals based on user preferences, past orders, and dietary restrictions. 
+# TrainCuisine - Train Food Ordering System
 
-In addition to individualized experiences, TrainCuisine fosters a sense of community by incorporating a robust rating and review system. Passengers can share their dining experiences, helping others make informed choices. The platform introduces exclusive chef-curated specials 
-and themed meal packages inspired by popular travel destinations, offering passengers an exciting culinary journey. 
+## Overview
+TrainCuisine is a full-stack web application designed to enhance the dining experience during train journeys. The platform allows passengers to order food using their PNR number, explore regional specialties, and enjoy a personalized dining experience with recommendations based on their preferences.
 
-Prioritizing sustainability, TrainCuisine integrates eco-friendly packaging options and collaborates with vendors committed to environmentally responsible practices. Dynamic pricing and promotions based on train routes, times, and seasons incentivize users to explore new culinary experiences. TrainCuisine strives to make the dining experience not just a 
-necessity but a memorable and enjoyable part of the overall travel adventure.
+## Features
+### For Users
+- Seamless food ordering using PNR number
+- Diverse menu with regional specialties
+- Personalized meal recommendations
+- Special offers and themed meal packages
+- Eco-friendly packaging options
+
+### For Administrators
+- Secure admin panel with authentication
+- Menu management system
+- Order management and tracking
+- Inventory control
+
+## Tech Stack
+- **Frontend**
+  - React.js
+  - Tailwind CSS
+  - JavaScript
+
+- **Backend**
+  - Express.js
+  - Node.js
+
+- **Database**
+  - MongoDB
+  - MySQL
